@@ -14,5 +14,5 @@ app.listen(port, () => {
 })
 
 app.get("/", function(require, response) {
-    response.send("Banckend de LoveCraft Funcionandp <(*-*<)");
+    response.send("Backend de LoveCraft Funcionando <(*-*<)");
 });
